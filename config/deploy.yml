@@ -18,6 +18,7 @@ servers:
 proxy:
   ssl: true
   host: naofumi.castle104.com
+  app_port: 3000
 
 # Credentials for your image host.
 registry:
